@@ -2,11 +2,11 @@
 
 # ⚡ ROBSON CASTRO
 
-### 💻 Back-End Java • Spring Boot • MySQL
+### 💻 BACK-END JAVA • SPRING BOOT • MYSQL
 
-> **🚀 Construindo soluções com Java para resolver problemas reais.**
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,linux,vscode&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,linux,vscode&theme=dark" />
+> 🚀 Transformando ideias em soluções através da tecnologia.
 
 </div>
 
@@ -15,22 +15,22 @@
 # ⚡ SYSTEM CORE
 
 ```text
-┌────────────────────────────────────────────────────────────┐
-│                 ROBSON SYSTEM v1.0                         │
-├────────────────────────────────────────────────────────────┤
-│ Initializing system...                                     │
-│ ████████████████████████████████████████ 100%              │
-│                                                            │
-│ ✔ Developer detected                                       │
-│ ✔ Java initialized                                         │
-│ ✔ Spring Boot loaded                                       │
-│ ✔ MySQL connected                                          │
-│ ✔ Git synchronized                                         │
-│ ✔ Linux environment ready                                  │
-│ ✔ Learning mode activated                                  │
-│                                                            │
-│ STATUS: ONLINE 🟢                                           │
-└────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════╗
+║              ROBSON SYSTEM v2.0                     ║
+╠══════════════════════════════════════════════════════╣
+║ Initializing system...                              ║
+║ ████████████████████████████████████ 100%           ║
+║                                                     ║
+║ ✔ Developer detected                                ║
+║ ✔ Java initialized                                  ║
+║ ✔ Spring Boot loaded                                ║
+║ ✔ MySQL connected                                   ║
+║ ✔ Git synchronized                                  ║
+║ ✔ Linux environment ready                           ║
+║ ✔ Learning mode activated                           ║
+║                                                     ║
+║ STATUS: ONLINE 🟢                                   ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -38,17 +38,15 @@
 # 👨‍💻 ABOUT ME
 
 ```java
-public class RobsonCastro {
+public class Robson {
 
-    String name = "Robson Otávio Castro";
-
-    String course = "Software Engineering";
-
-    String role = "Back-End Java Developer";
+    String role = "Back-End Java";
 
     String focus = "Spring Boot";
 
     String database = "MySQL";
+
+    String learning = "REST APIs | JPA | Hibernate";
 
     String goal = "Back-End Java Internship";
 
@@ -67,86 +65,104 @@ public class RobsonCastro {
 
 ---
 
+# 📊 DEVELOPER DASHBOARD
+
+```text
+┌──────────────────────────────────────────────┐
+│              ROBSON DASHBOARD                │
+├──────────────────────────────────────────────┤
+│ ☕ Java                 ██████████████ 90%    │
+│ 🚀 Spring Boot          ███████████░░ 75%    │
+│ 🗄 MySQL                ███████████░░ 75%    │
+│ 🌐 HTML/CSS             █████████████ 85%    │
+│ ⚡ JavaScript           ████████░░░░ 60%    │
+│ 🐧 Linux                ███████████░░ 80%    │
+│ 🔥 Git/GitHub           ████████████░ 85%    │
+└──────────────────────────────────────────────┘
+```
+
+---
+
 # 📦 CURRENT PROJECT
 
 ## 🏗 Castro Materiais
 
 ```text
+🟢 Sistema de Gestão
+
 ✔ Java
 ✔ Spring Boot
 ✔ MySQL
 ✔ REST API
 ✔ CRUD
-✔ Authentication
+✔ Login
 ✔ Dashboard
 ```
 
 ---
 
-# 📊 GITHUB STATS
+# 🏆 PROJECTS
 
-<div align="center">
+📦 Castro Materiais
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=robsonotavioqueirozcastroo343-pixel&show_icons=true&theme=tokyonight&hide_border=true"/>
+💰 Sistema Bancário em Java
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonotavioqueirozcastroo343-pixel&layout=compact&theme=tokyonight&hide_border=true"/>
+🛒 Sistema de Mercado em C
 
-</div>
-
----
-
-# 🔥 CONTRIBUTION STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=robsonotavioqueirozcastroo343-pixel&theme=tokyonight&hide_border=true"/>
-
-</div>
+👥 Sistema de Usuários em PHP + MySQL
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🎯 CURRENT GOALS
 
 ```text
-🎓 Software Engineering Student
+🎓 Engenharia de Software
 
-☕ Back-End Java Developer
+☕ Especialização em Back-End Java
 
-🚀 Spring Boot
+🚀 Dominar Spring Boot
 
-🗄 MySQL
+🗄 Banco de Dados MySQL
 
-💻 Personal Projects
+🌎 Construir APIs REST
 
-📚 Continuous Learning
+💼 Conquistar estágio Back-End Java
 ```
 
 ---
 
-# 📁 PROJECTS
+# 📈 ROADMAP
 
-### 🏗 Castro Materiais
-Sistema de gestão para distribuidora de materiais de construção.
+```text
+Java             ████████████████████
 
-### 💰 Sistema Bancário
-Projeto Java utilizando Programação Orientada a Objetos.
+Spring Boot      ████████████░░░░░░░
 
-### 🛒 Sistema de Mercado
-Sistema desenvolvido em C para gerenciamento de estoque.
+MySQL            █████████████░░░░░░
 
-### 👥 Sistema de Usuários
-CRUD em PHP + MySQL.
+Git/GitHub       ███████████████░░░░
+
+Docker           ███░░░░░░░░░░░░░░░░
+
+AWS              ██░░░░░░░░░░░░░░░░░
+```
 
 ---
 
 # 📫 CONTACT
 
-📧 robsonotavioqueirozcastro343@gmail.com
+📧 **Email**
+
+robsonotavioqueirozcastro343@gmail.com
+
+💻 GitHub
+
+@robsonotavioqueirozcastroo343-pixel
 
 ---
 
 <div align="center">
 
-### ⭐ "Sempre aprendendo, construindo e evoluindo."
+## ⭐ "Código bem escrito hoje economiza tempo amanhã."
 
 </div>
