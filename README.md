@@ -6,22 +6,18 @@ Sou uma pessoa curiosa e determinada, com foco em tecnologia e desenvolvimento d
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div>
-  <img src="https://shields.io" alt="PHP" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="HTML5" />
-</div>
+- 💻 **Back-end:** PHP | Java | C
+- 🗄️ **Banco de Dados:** MySQL
+- 🌐 **Front-end:** HTML5
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📊 Meus Projetos Principais
 
-<div align="center">
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
-</div>
+- 🛠️ **Sistema-de-Gest-o-de-Usu-rios---PHP-e-MySQL**
+- 📈 **Sistema-de-Gest-o-de-Mercado-em-C**
+- 🏦 **Sistema Bancário (Java)**
+- 💼 **Sistema de Transações Financeiras (C)**
 
 ---
 
