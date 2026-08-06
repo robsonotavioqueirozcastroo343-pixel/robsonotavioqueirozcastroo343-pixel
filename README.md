@@ -4,7 +4,7 @@
 
 ### 💻 Back-End Java • Spring Boot • MySQL
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=🚀+Construindo+soluções+com+Java;💻+Desenvolvendo+APIs+REST;☕+Sempre+aprendendo+algo+novo;🎯+Disponível+para+Estágio+Back-End+Java" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=🚀+Construindo+soluções+com+Java;💻+Desenvolvendo+Back-End+com+Spring+Boot;📚+Aprendendo+e+evoluindo+todos+os+dias;🎯+Disponível+para+Estágio+Back-End+Java" />
 
 </div>
 
@@ -13,22 +13,22 @@
 # ⚡ SYSTEM CORE
 
 ```text
-┌──────────────────────────────────────────────┐
-│         ROBSON SYSTEM v1.0 INITIALIZED       │
-├──────────────────────────────────────────────┤
-│ Initializing system...                       │
-│ ██████████████████████████████ 100%          │
-│                                              │
-│ ✔ Developer detected                         │
-│ ✔ Java initialized                           │
-│ ✔ Spring Boot loaded                         │
-│ ✔ MySQL connected                            │
-│ ✔ Git synchronized                           │
-│ ✔ Linux environment ready                    │
-│ ✔ Learning mode activated                    │
-│                                              │
-│ STATUS: ONLINE 🟢                            │
-└──────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────┐
+│              ROBSON SYSTEM v1.0                     │
+├─────────────────────────────────────────────────────┤
+│ Initializing system...                              │
+│ ███████████████████████████████ 100%                │
+│                                                     │
+│ ✔ Developer detected                                │
+│ ✔ Java initialized                                  │
+│ ✔ Spring Boot loaded                                │
+│ ✔ MySQL connected                                   │
+│ ✔ Git synchronized                                  │
+│ ✔ Linux environment ready                           │
+│ ✔ Learning mode activated                           │
+│                                                     │
+│ STATUS: ONLINE 🟢                                   │
+└─────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -38,19 +38,15 @@
 ```java
 public class RobsonCastro {
 
-    String name = "Robson Otávio Castro";
+    private final String name = "Robson Otávio Castro";
 
-    String role = "Back-End Java Developer";
+    private final String role = "Back-End Java";
 
-    String education = "Software Engineering";
+    private final String course = "Software Engineering";
 
-    String focus = "Java + Spring Boot";
+    private final String stack = "Java • Spring Boot • MySQL";
 
-    String database = "MySQL";
-
-    String currentlyLearning = "REST APIs, JPA, Hibernate";
-
-    String goal = "Back-End Java Internship";
+    private final String goal = "Back-End Java Internship";
 
 }
 ```
@@ -108,17 +104,17 @@ public class RobsonCastro {
 # 🏆 ACHIEVEMENTS
 
 ```text
-🎓 Software Engineering Student
+🎓 Engenharia de Software
 
-☕ Java Developer
+☕ Back-End Java
 
 🚀 Spring Boot
 
 🗄 MySQL
 
-💻 Personal Projects
+💻 Projetos Pessoais
 
-📚 Continuous Learning
+📚 Aprendizado Contínuo
 ```
 
 ---
@@ -128,17 +124,11 @@ public class RobsonCastro {
 ### 🏗 Castro Materiais
 Sistema de gestão para distribuidora de materiais de construção.
 
----
-
 ### 💰 Sistema Bancário
 Projeto Java utilizando Programação Orientada a Objetos.
 
----
-
 ### 🛒 Sistema de Mercado
-Projeto desenvolvido em C para gerenciamento de estoque.
-
----
+Projeto desenvolvido em C.
 
 ### 👥 Sistema de Usuários
 CRUD em PHP + MySQL.
@@ -147,22 +137,12 @@ CRUD em PHP + MySQL.
 
 # 📫 CONTACT
 
-📧 **Email**
-
-robsonotavioqueirozcastro343@gmail.com
+📧 robsonotavioqueirozcastro343@gmail.com
 
 ---
 
 <div align="center">
 
-### ⭐ "A tecnologia muda todos os dias. Aprender também faz parte do trabalho."
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FF99&section=footer"/>
+### ⭐ "Aprender, construir e evoluir todos os dias."
 
 </div>
