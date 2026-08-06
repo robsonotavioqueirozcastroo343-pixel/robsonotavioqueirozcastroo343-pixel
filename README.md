@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Robson Otávio! 👋
 
-<!--
-**robsonotavioqueirozcastroo343-pixel/robsonotavioqueirozcastroo343-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma pessoa curiosa e determinada, com foco em tecnologia e desenvolvimento de sistemas. Atualmente focado na construção do projeto **Castro Mater**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+
+<div>
+  <img src="https://shields.io" alt="PHP" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="C" />
+  <img src="https://shields.io" alt="HTML5" />
+</div>
+
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://vercel.app"/>
+  <img height="180em" src="https://vercel.app"/>
+</div>
+
+---
+
+### 🤝 Contato
+
+- 📧 **E-mail:** robsonotavioqueirozcastroo343@gmail.com
