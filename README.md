@@ -4,7 +4,9 @@
 
 ### 💻 Back-End Java • Spring Boot • MySQL
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=🚀+Construindo+soluções+com+Java;💻+Desenvolvendo+Back-End+com+Spring+Boot;📚+Aprendendo+e+evoluindo+todos+os+dias;🎯+Disponível+para+Estágio+Back-End+Java" />
+> **🚀 Construindo soluções com Java para resolver problemas reais.**
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,linux,vscode&theme=dark" />
 
 </div>
 
@@ -13,22 +15,22 @@
 # ⚡ SYSTEM CORE
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│              ROBSON SYSTEM v1.0                     │
-├─────────────────────────────────────────────────────┤
-│ Initializing system...                              │
-│ ███████████████████████████████ 100%                │
-│                                                     │
-│ ✔ Developer detected                                │
-│ ✔ Java initialized                                  │
-│ ✔ Spring Boot loaded                                │
-│ ✔ MySQL connected                                   │
-│ ✔ Git synchronized                                  │
-│ ✔ Linux environment ready                           │
-│ ✔ Learning mode activated                           │
-│                                                     │
-│ STATUS: ONLINE 🟢                                   │
-└─────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────┐
+│                 ROBSON SYSTEM v1.0                         │
+├────────────────────────────────────────────────────────────┤
+│ Initializing system...                                     │
+│ ████████████████████████████████████████ 100%              │
+│                                                            │
+│ ✔ Developer detected                                       │
+│ ✔ Java initialized                                         │
+│ ✔ Spring Boot loaded                                       │
+│ ✔ MySQL connected                                          │
+│ ✔ Git synchronized                                         │
+│ ✔ Linux environment ready                                  │
+│ ✔ Learning mode activated                                  │
+│                                                            │
+│ STATUS: ONLINE 🟢                                           │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -38,15 +40,17 @@
 ```java
 public class RobsonCastro {
 
-    private final String name = "Robson Otávio Castro";
+    String name = "Robson Otávio Castro";
 
-    private final String role = "Back-End Java";
+    String course = "Software Engineering";
 
-    private final String course = "Software Engineering";
+    String role = "Back-End Java Developer";
 
-    private final String stack = "Java • Spring Boot • MySQL";
+    String focus = "Spring Boot";
 
-    private final String goal = "Back-End Java Internship";
+    String database = "MySQL";
+
+    String goal = "Back-End Java Internship";
 
 }
 ```
@@ -55,11 +59,11 @@ public class RobsonCastro {
 
 # 🚀 TECH STACK
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,linux,vscode&theme=dark"/>
 
-</p>
+</div>
 
 ---
 
@@ -83,19 +87,19 @@ public class RobsonCastro {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=robsonotavioqueirozcastro343-pixel&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=robsonotavioqueirozcastroo343-pixel&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonotavioqueirozcastro343-pixel&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonotavioqueirozcastroo343-pixel&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 CONTRIBUTIONS
+# 🔥 CONTRIBUTION STREAK
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=robsonotavioqueirozcastro343-pixel&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=robsonotavioqueirozcastroo343-pixel&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -104,17 +108,17 @@ public class RobsonCastro {
 # 🏆 ACHIEVEMENTS
 
 ```text
-🎓 Engenharia de Software
+🎓 Software Engineering Student
 
-☕ Back-End Java
+☕ Back-End Java Developer
 
 🚀 Spring Boot
 
 🗄 MySQL
 
-💻 Projetos Pessoais
+💻 Personal Projects
 
-📚 Aprendizado Contínuo
+📚 Continuous Learning
 ```
 
 ---
@@ -128,7 +132,7 @@ Sistema de gestão para distribuidora de materiais de construção.
 Projeto Java utilizando Programação Orientada a Objetos.
 
 ### 🛒 Sistema de Mercado
-Projeto desenvolvido em C.
+Sistema desenvolvido em C para gerenciamento de estoque.
 
 ### 👥 Sistema de Usuários
 CRUD em PHP + MySQL.
@@ -143,6 +147,6 @@ CRUD em PHP + MySQL.
 
 <div align="center">
 
-### ⭐ "Aprender, construir e evoluir todos os dias."
+### ⭐ "Sempre aprendendo, construindo e evoluindo."
 
 </div>
