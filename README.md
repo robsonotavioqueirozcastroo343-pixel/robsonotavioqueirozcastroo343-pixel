@@ -1,44 +1,63 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Robson+Ot%C3%A1vio!;Back-End+Java+Developer;Spring+Boot+%7C+MySQL+%7C+Linux" />
+# ⚡ ROBSON CASTRO
+
+### 💻 Back-End Java • Spring Boot • MySQL
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=🚀+Construindo+soluções+com+Java;💻+Desenvolvendo+APIs+REST;☕+Sempre+aprendendo+algo+novo;🎯+Disponível+para+Estágio+Back-End+Java" />
 
 </div>
 
 ---
 
-# 👋 Olá, eu sou o Robson Otávio
-
-💻 Estudante de **Engenharia de Software**
-
-🚀 Focado em **Back-End Java**
-
-🌱 Atualmente estudando **Spring Boot, APIs REST, JPA/Hibernate e MySQL**
-
-🎯 Objetivo: conquistar uma oportunidade como **Estagiário Back-End Java**
-
----
-
-# 🚀 SYSTEM STATUS
+# ⚡ SYSTEM CORE
 
 ```text
-╔════════════════════════════════════════════════════════╗
-║                ROBSON.EXE INITIALIZED                 ║
-╠════════════════════════════════════════════════════════╣
-║ 👤 Nome............. Robson Otávio Castro             ║
-║ 🎓 Curso............ Engenharia de Software           ║
-║ 💻 Especialidade.... Back-End Java                    ║
-║ 🚀 Framework........ Spring Boot                      ║
-║ 🗄 Banco............ MySQL                            ║
-║ 🌎 Front-End........ HTML • CSS • JavaScript          ║
-║ 🐧 Sistema.......... Linux Ubuntu                     ║
-║ ⚙ Ferramentas...... Git • GitHub • VS Code           ║
-║ 📍 Status........... 🟢 Disponível para Estágio       ║
-╚════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────┐
+│         ROBSON SYSTEM v1.0 INITIALIZED       │
+├──────────────────────────────────────────────┤
+│ Initializing system...                       │
+│ ██████████████████████████████ 100%          │
+│                                              │
+│ ✔ Developer detected                         │
+│ ✔ Java initialized                           │
+│ ✔ Spring Boot loaded                         │
+│ ✔ MySQL connected                            │
+│ ✔ Git synchronized                           │
+│ ✔ Linux environment ready                    │
+│ ✔ Learning mode activated                    │
+│                                              │
+│ STATUS: ONLINE 🟢                            │
+└──────────────────────────────────────────────┘
 ```
 
 ---
 
-# 💻 Tecnologias
+# 👨‍💻 ABOUT ME
+
+```java
+public class RobsonCastro {
+
+    String name = "Robson Otávio Castro";
+
+    String role = "Back-End Java Developer";
+
+    String education = "Software Engineering";
+
+    String focus = "Java + Spring Boot";
+
+    String database = "MySQL";
+
+    String currentlyLearning = "REST APIs, JPA, Hibernate";
+
+    String goal = "Back-End Java Internship";
+
+}
+```
+
+---
+
+# 🚀 TECH STACK
 
 <p align="center">
 
@@ -48,7 +67,23 @@
 
 ---
 
-# 📊 GitHub
+# 📦 CURRENT PROJECT
+
+## 🏗 Castro Materiais
+
+```text
+✔ Java
+✔ Spring Boot
+✔ MySQL
+✔ REST API
+✔ CRUD
+✔ Authentication
+✔ Dashboard
+```
+
+---
+
+# 📊 GITHUB STATS
 
 <div align="center">
 
@@ -60,7 +95,7 @@
 
 ---
 
-# 🔥 Contribuições
+# 🔥 CONTRIBUTIONS
 
 <div align="center">
 
@@ -70,10 +105,28 @@
 
 ---
 
-# 🛠 Projetos
+# 🏆 ACHIEVEMENTS
+
+```text
+🎓 Software Engineering Student
+
+☕ Java Developer
+
+🚀 Spring Boot
+
+🗄 MySQL
+
+💻 Personal Projects
+
+📚 Continuous Learning
+```
+
+---
+
+# 📁 PROJECTS
 
 ### 🏗 Castro Materiais
-Sistema de gestão para distribuidora de materiais de construção desenvolvido com HTML, CSS, JavaScript e futuramente Spring Boot.
+Sistema de gestão para distribuidora de materiais de construção.
 
 ---
 
@@ -83,48 +136,28 @@ Projeto Java utilizando Programação Orientada a Objetos.
 ---
 
 ### 🛒 Sistema de Mercado
-Sistema desenvolvido em linguagem C para controle de estoque e vendas.
+Projeto desenvolvido em C para gerenciamento de estoque.
 
 ---
 
 ### 👥 Sistema de Usuários
-CRUD em PHP integrado ao MySQL.
+CRUD em PHP + MySQL.
 
 ---
 
-# 🏆 Badges
+# 📫 CONTACT
 
-<p align="center">
+📧 **Email**
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-
-</p>
+robsonotavioqueirozcastro343@gmail.com
 
 ---
 
-# 📫 Contato
+<div align="center">
 
-📧 **Email:** robsonotavioqueirozcastro343@gmail.com
+### ⭐ "A tecnologia muda todos os dias. Aprender também faz parte do trabalho."
 
-<p align="center">
-
-<a href="https://github.com/robsonotavioqueirozcastro343-pixel">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+</div>
 
 ---
 
