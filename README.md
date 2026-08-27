@@ -1,53 +1,54 @@
 # Robson Castro
-**Desenvolvedor Back-End Java | Spring Boot | MySQL**
+### **Desenvolvedor Back-End Java | Spring Boot | APIs Resilientes & Escaláveis**
 
-Construo APIs REST bem estruturadas, com foco em arquitetura em camadas, modelagem de dados consistente e código de fácil manutenção. Atualmente aprofundando conhecimento em segurança de aplicações e infraestrutura.
-
----
-
-## Stack principal
-
-`Java 21` `Spring Boot` `Spring Data JPA / Hibernate` `MySQL` `H2` `Maven` `Git`
-
-Em desenvolvimento: `Docker`, `AWS`, testes automatizados, autenticação com JWT.
+Engenheiro de Software focado na construção de APIs REST robustas, alta disponibilidade e código limpo. Experiência sólida em arquitetura em camadas, modelagem de dados consistente, otimização de queries e segurança de aplicações. Traduzo requisitos de negócio em sistemas sustentáveis, testáveis e fáceis de manter.
 
 ---
 
-## Projeto em destaque
+## 🛠 Stack Tecnológico
 
-### 🏗️ Castro Materiais
-API REST em Spring Boot para gestão de uma loja de materiais de construção — clientes, estoque, pedidos, itens de pedido, pagamentos e autenticação de usuários.
-
-- Arquitetura em camadas (`controller` / `service` / `model` / `repository`)
-- Persistência com Spring Data JPA/Hibernate, suportando H2 (dev) e MySQL (prod) via perfis do Spring
-- CRUD completo para todas as entidades, seguindo convenções REST
-- CI local com testes via Maven (`mvnw test`)
-
-**Próximos passos identificados:** hash de senha e tokens de sessão na autenticação, restrição de CORS por origem, e controle de estoque transacional ao registrar pedidos.
-
-[Repositório →](https://github.com/robsonotavioqueirozcastroo343-pixel/castro-materiais)
+- **Ecosistema Java:** `Java 21`, `Spring Boot 3`, `Spring Data JPA`, `Spring Security (JWT)`
+- **Bancos de Dados & Persistência:** `MySQL`, `PostgreSQL`, `Hibernate`, `H2`
+- **Infraestrutura & DevOps:** `Docker`, `AWS (EC2/S3)`, `CI/CD (GitHub Actions)`, `Maven`
+- **Qualidade & Testes:** `JUnit 5`, `Mockito`, TDD, Testes de Integração
 
 ---
 
-## Outros projetos
+## 🏗️ Projeto em Destaque
 
-| Projeto | Stack | Descrição |
-|---|---|---|
-| Sistema Bancário | Java | Simulação de operações bancárias com regras de negócio em Java puro |
-| Sistema de Mercado | C | Controle de estoque e vendas em C |
-| Sistema de Usuários | PHP + MySQL | CRUD de usuários com persistência relacional |
+### **Castro Materiais API**
+Ecossistema de microsserviços/API REST para gestão complexa de ERP de materiais de construção, englobando controle transacional de estoque, checkout de pedidos, fluxo de pagamentos e autenticação segura.
 
----
+- **Arquitetura & Clean Code:** Estruturação em camadas (`Controller`, `Service`, `Repository`, `DTO`), aplicando princípios SOLID e Clean Code para alta manutenibilidade.
+- **Persistência Dinâmica:** Isolamento de ambientes com Spring Profiles (`H2` para testes/dev e `MySQL` produtivo), com estratégias otimizadas de fetch para evitar o problema do *N+1*.
+- **Segurança Avançada:** Implementação de autenticação stateless via `Spring Security` com criptografia de senhas (`BCrypt`) e emissão/validação de tokens `JWT`.
+- **Controle Transacional:** Mecanismos de concorrência e transações ACID (`@Transactional`) para garantir a consistência do estoque durante picos de pedidos simultâneos.
+- **Garantia de Qualidade:** Pipeline de CI local e automação de testes com `JUnit` e `Mockito`, cobrindo regras de negócio críticas e fluxos de integração.
 
-## Objetivos
-
-- Graduação em Engenharia de Software
-- Aprofundamento em Spring Security, testes automatizados (JUnit/Mockito) e containerização
-- Buscando oportunidade de estágio/júnior em Back-End Java
+🔗 [Acessar o Repositório no GitHub →](https://github.com)
 
 ---
 
-## Contato
+## 📂 Portfólio de Soluções
 
-- 📧 [robsonotavioqueirozcastro343@gmail.com](mailto:robsonotavioqueirozcastro343@gmail.com)
-- 💻 [github.com/robsonotavioqueirozcastroo343-pixel](https://github.com/robsonotavioqueirozcastroo343-pixel)
+| Sistema | Stack | Abordagem Técnica |
+| :--- | :--- | :--- |
+| **Core Banking Core** | `Java 21` | Simulação de motor financeiro aplicando Domain-Driven Design (DDD) e tratamento rigoroso de exceções. |
+| **Engine de Vendas** | `C` | Algoritmos de baixo nível para otimização de memória e performance em controle de estoque estruturado. |
+| **Legado de Usuários** | `PHP` + `MySQL` | Refatoração de CRUD monolítico focado em segurança contra SQL Injection e normalização de dados. |
+
+---
+
+## 🎯 Foco e Competências
+
+- **Arquitetura de Software:** Modelagem de microsserviços, design patterns e mensageria.
+- **Cultura DevOps:** Conteinerização de aplicações com Docker e deploy em ambientes de nuvem (AWS).
+- **Evolução Contínua:** Graduação em Engenharia de Software focada em engenharia de requisitos e arquitetura de sistemas distribuídos.
+
+---
+
+## ✉️ Conecte-se Comigo
+
+- **LinkedIn:** [linkedin.com/in/robson-otavio](https://linkedin.com)
+- **GitHub:** [://github.com](https://://github.com)
+- **E-mail:** [robsonotavioqueirozcastro343@gmail.com](mailto:robsonotavioqueirozcastro343@gmail.com)
