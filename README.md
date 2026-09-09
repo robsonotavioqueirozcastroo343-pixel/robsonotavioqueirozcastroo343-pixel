@@ -25,6 +25,6 @@ Engenheiro de Software focado na construção de APIs REST robustas e de alta di
 
 ## ✉️ Conecte-se Comigo
 
-* **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-* **GitHub:** [://github.com](https://://github.com)
+* **LinkedIn:** [://linkedin.com](https://linkedin.com)
+* **GitHub:** [://github.com](https://github.com)
 * **E-mail:** [robsonotavioqueirozcastro343@gmail.com](mailto:robsonotavioqueirozcastro343@gmail.com)
