@@ -12,15 +12,7 @@ Eu sou **Robson Otávio** e sou estudante de **Engenharia de Software**.
 
 ## 🛠️ Tecnologias
 
-![Java](https://shields.io)
-![Spring](https://shields.io)
-![MySQL](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Docker](https://shields.io)
-![AWS](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![VS Code](https://shields.io)
+☕ **Java** · 🍃 **Spring Boot** · 🐬 **MySQL** · 🐘 **PostgreSQL** · 🐳 **Docker** · ☁️ **AWS** · 🔀 **Git** · 🐙 **GitHub** · 💻 **VS Code**
 
 ## 📚 Atualmente estudando
 
