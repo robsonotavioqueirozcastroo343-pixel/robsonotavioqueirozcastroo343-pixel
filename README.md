@@ -1,30 +1,51 @@
-# 🚀 Robson Otávio
-### **Desenvolvedor Back-End Java | Spring Boot | APIs Resilientes & Escaláveis**
+# Olá! 👋
 
-Engenheiro de Software focado na construção de APIs REST robustas e de alta disponibilidade. Experiência sólida em arquitetura em camadas, modelagem de dados consistente, otimização de queries e segurança de aplicações. Especialista em traduzir requisitos de negócio em sistemas sustentáveis, testáveis e fáceis de manter.
+Eu sou **Robson Otávio** e sou estudante de **Engenharia de Software**.
+
+## 🚀 Sobre mim
+
+* 🎓 Atualmente estou estudando engenharia de requisitos e arquitetura de sistemas distribuídos
+* 🌱 Estou aprofundando meus conhecimentos no **Ecossistema Java, Spring Boot e Arquitetura de Software**
+* 💻 Tenho interesse no desenvolvimento de APIs REST robustas, escaláveis e de alta disponibilidade
+* 🎯 Meu objetivo é construir sistemas sustentáveis, testáveis, fáceis de manter e evoluir constantemente
+* 🤝 Estou aberto a aprender, colaborar e conhecer novas pessoas da área de tecnologia
+
+## 🛠️ Tecnologias
+
+<div align="left">
+  <img src="https://jsdelivr.net" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://jsdelivr.net" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://jsdelivr.net" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://jsdelivr.net" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://jsdelivr.net" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://jsdelivr.net" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://jsdelivr.net" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://jsdelivr.net" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://jsdelivr.net" height="40" alt="vscode logo"  />
+</div>
+
+## 📚 Atualmente estudando
+
+* Java 21 & Spring Boot 3
+* Spring Security (JWT) & Spring Data JPA
+* Testes Automatizados (JUnit 5, Mockito & TDD)
+* Práticas de Clean Code & Princípios SOLID
+* Modelagem de Banco de Dados & Otimização de Queries
+* CI/CD (GitHub Actions)
+* Arquitetura em Camadas e Microsserviços
+
+## 📌 Projetos
+
+Aqui você encontra alguns dos meus projetos e estudos desenvolvidos ao longo da minha jornada na programação.
 
 ---
 
-## 🛠️ Stack Tecnológico
-
-* **Ecossistema Java:** `Java 21` · `Spring Boot 3` · `Spring Data JPA` · `Spring Security (JWT)`
-* **Bancos de Dados & Persistência:** `MySQL` · `PostgreSQL` · `Hibernate` · `H2`
-* **Infraestrutura & DevOps:** `Docker` · `AWS (EC2 / S3)` · `CI/CD (GitHub Actions)` · `Maven`
-* **Qualidade & Testes:** `JUnit 5` · `Mockito` · `TDD` · Testes de Integração
-
----
-
-## 🎯 Foco e Competências
-
-* **Arquitetura de Software:** Modelagem de microsserviços, design patterns e mensageria.
-* **Cultura DevOps:** Conteinerização com Docker e deploy em ambientes de nuvem (AWS).
-* **Boas Práticas de Engenharia:** Princípios SOLID, Clean Code e testes automatizados.
-* **Evolução Contínua:** Graduação em Engenharia de Software, com foco em engenharia de requisitos e arquitetura de sistemas distribuídos.
-
----
-
-## ✉️ Conecte-se Comigo
-
-* **LinkedIn:** [://linkedin.com](https://linkedin.com)
-* **GitHub:** [://github.com](https://github.com)
-* **E-mail:** [robsonotavioqueirozcastro343@gmail.com](mailto:robsonotavioqueirozcastro343@gmail.com)
+⭐ **Seja bem-vindo ao meu perfil!**
